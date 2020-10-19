@@ -1,0 +1,2 @@
+rootProject.name='KartOyunu'
+include ':app'
